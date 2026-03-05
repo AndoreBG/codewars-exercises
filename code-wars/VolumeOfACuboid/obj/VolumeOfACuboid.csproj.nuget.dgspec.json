@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\VolumeOfACuboid\\VolumeOfACuboid.csproj": {}
+    "c:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\VolumeOfACuboid\\VolumeOfACuboid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\VolumeOfACuboid\\VolumeOfACuboid.csproj": {
+    "c:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\VolumeOfACuboid\\VolumeOfACuboid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\VolumeOfACuboid\\VolumeOfACuboid.csproj",
+        "projectUniqueName": "c:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\VolumeOfACuboid\\VolumeOfACuboid.csproj",
         "projectName": "VolumeOfACuboid",
-        "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\VolumeOfACuboid\\VolumeOfACuboid.csproj",
+        "projectPath": "c:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\VolumeOfACuboid\\VolumeOfACuboid.csproj",
         "packagesPath": "C:\\Users\\andgor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\VolumeOfACuboid\\obj\\",
+        "outputPath": "c:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\VolumeOfACuboid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andgor\\AppData\\Roaming\\NuGet\\NuGet.Config"

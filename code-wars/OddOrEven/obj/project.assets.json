@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\OddOrEven\\OddOrEven.csproj",
+      "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\OddOrEven\\OddOrEven.csproj",
       "projectName": "OddOrEven",
-      "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\OddOrEven\\OddOrEven.csproj",
+      "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\OddOrEven\\OddOrEven.csproj",
       "packagesPath": "C:\\Users\\andgor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\OddOrEven\\obj\\",
+      "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\OddOrEven\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andgor\\AppData\\Roaming\\NuGet\\NuGet.Config"

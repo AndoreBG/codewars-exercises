@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\TheHighestProfitWins\\TheHighestProfitWins.csproj",
+      "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\TheHighestProfitWins\\TheHighestProfitWins.csproj",
       "projectName": "TheHighestProfitWins",
-      "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\TheHighestProfitWins\\TheHighestProfitWins.csproj",
+      "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\TheHighestProfitWins\\TheHighestProfitWins.csproj",
       "packagesPath": "C:\\Users\\andgor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\TheHighestProfitWins\\obj\\",
+      "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\TheHighestProfitWins\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andgor\\AppData\\Roaming\\NuGet\\NuGet.Config"

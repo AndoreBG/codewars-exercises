@@ -1,0 +1,15 @@
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\bin\Debug\net10.0\VolumeOfACuboid.exe
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\bin\Debug\net10.0\VolumeOfACuboid.deps.json
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\bin\Debug\net10.0\VolumeOfACuboid.runtimeconfig.json
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\bin\Debug\net10.0\VolumeOfACuboid.dll
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\bin\Debug\net10.0\VolumeOfACuboid.pdb
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\VolumeOfACuboid.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\VolumeOfACuboid.AssemblyInfoInputs.cache
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\VolumeOfACuboid.AssemblyInfo.cs
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\VolumeOfACuboid.csproj.CoreCompileInputs.cache
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\VolumeOfACuboid.sourcelink.json
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\VolumeOfACuboid.dll
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\refint\VolumeOfACuboid.dll
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\VolumeOfACuboid.pdb
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\VolumeOfACuboid.genruntimeconfig.cache
+c:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\VolumeOfACuboid\obj\Debug\net10.0\ref\VolumeOfACuboid.dll

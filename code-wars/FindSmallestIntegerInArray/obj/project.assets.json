@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\FindSmallestIntegerInArray\\FindSmallestIntegerInArray.csproj",
+      "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\FindSmallestIntegerInArray\\FindSmallestIntegerInArray.csproj",
       "projectName": "FindSmallestIntegerInArray",
-      "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\FindSmallestIntegerInArray\\FindSmallestIntegerInArray.csproj",
+      "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\FindSmallestIntegerInArray\\FindSmallestIntegerInArray.csproj",
       "packagesPath": "C:\\Users\\andgor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\FindSmallestIntegerInArray\\obj\\",
+      "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\FindSmallestIntegerInArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andgor\\AppData\\Roaming\\NuGet\\NuGet.Config"

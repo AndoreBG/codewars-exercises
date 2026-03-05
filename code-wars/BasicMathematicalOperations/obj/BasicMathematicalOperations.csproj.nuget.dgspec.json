@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\BasicMathematicalOperations\\BasicMathematicalOperations.csproj": {}
+    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\BasicMathematicalOperations\\BasicMathematicalOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\BasicMathematicalOperations\\BasicMathematicalOperations.csproj": {
+    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\BasicMathematicalOperations\\BasicMathematicalOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\BasicMathematicalOperations\\BasicMathematicalOperations.csproj",
+        "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\BasicMathematicalOperations\\BasicMathematicalOperations.csproj",
         "projectName": "BasicMathematicalOperations",
-        "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\BasicMathematicalOperations\\BasicMathematicalOperations.csproj",
+        "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\BasicMathematicalOperations\\BasicMathematicalOperations.csproj",
         "packagesPath": "C:\\Users\\andgor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\BasicMathematicalOperations\\obj\\",
+        "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\BasicMathematicalOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andgor\\AppData\\Roaming\\NuGet\\NuGet.Config"

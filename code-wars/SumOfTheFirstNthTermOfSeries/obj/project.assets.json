@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\SumOfTheFirstNthTermOfSeries\\SumOfTheFirstNthTermOfSeries.csproj",
+      "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\SumOfTheFirstNthTermOfSeries\\SumOfTheFirstNthTermOfSeries.csproj",
       "projectName": "SumOfTheFirstNthTermOfSeries",
-      "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\SumOfTheFirstNthTermOfSeries\\SumOfTheFirstNthTermOfSeries.csproj",
+      "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\SumOfTheFirstNthTermOfSeries\\SumOfTheFirstNthTermOfSeries.csproj",
       "packagesPath": "C:\\Users\\andgor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\SumOfTheFirstNthTermOfSeries\\obj\\",
+      "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\SumOfTheFirstNthTermOfSeries\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andgor\\AppData\\Roaming\\NuGet\\NuGet.Config"

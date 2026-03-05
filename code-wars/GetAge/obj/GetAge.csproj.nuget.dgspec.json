@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\GetAge\\GetAge.csproj": {}
+    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\GetAge\\GetAge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\GetAge\\GetAge.csproj": {
+    "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\GetAge\\GetAge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\GetAge\\GetAge.csproj",
+        "projectUniqueName": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\GetAge\\GetAge.csproj",
         "projectName": "GetAge",
-        "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\GetAge\\GetAge.csproj",
+        "projectPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\GetAge\\GetAge.csproj",
         "packagesPath": "C:\\Users\\andgor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\code-wars\\GetAge\\obj\\",
+        "outputPath": "C:\\Users\\andgor\\Documents\\vscode\\cscharp\\codewars-exercises\\code-wars\\GetAge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andgor\\AppData\\Roaming\\NuGet\\NuGet.Config"
