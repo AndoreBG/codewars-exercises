@@ -1,0 +1,14 @@
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\bin\Debug\net10.0\GetAge.exe
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\bin\Debug\net10.0\GetAge.deps.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\bin\Debug\net10.0\GetAge.runtimeconfig.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\bin\Debug\net10.0\GetAge.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\bin\Debug\net10.0\GetAge.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\GetAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\GetAge.AssemblyInfoInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\GetAge.AssemblyInfo.cs
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\GetAge.csproj.CoreCompileInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\GetAge.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\refint\GetAge.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\GetAge.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\GetAge.genruntimeconfig.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\GetAge\obj\Debug\net10.0\ref\GetAge.dll

@@ -1,0 +1,14 @@
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\bin\Debug\net10.0\BasicMathematicalOperations.exe
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\bin\Debug\net10.0\BasicMathematicalOperations.deps.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\bin\Debug\net10.0\BasicMathematicalOperations.runtimeconfig.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\bin\Debug\net10.0\BasicMathematicalOperations.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\bin\Debug\net10.0\BasicMathematicalOperations.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\BasicMathematicalOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\BasicMathematicalOperations.AssemblyInfoInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\BasicMathematicalOperations.AssemblyInfo.cs
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\BasicMathematicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\BasicMathematicalOperations.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\refint\BasicMathematicalOperations.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\BasicMathematicalOperations.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\BasicMathematicalOperations.genruntimeconfig.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\BasicMathematicalOperations\obj\Debug\net10.0\ref\BasicMathematicalOperations.dll

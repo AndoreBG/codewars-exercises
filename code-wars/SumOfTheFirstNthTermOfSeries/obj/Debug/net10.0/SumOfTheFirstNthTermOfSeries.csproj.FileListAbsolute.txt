@@ -1,0 +1,14 @@
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\bin\Debug\net10.0\SumOfTheFirstNthTermOfSeries.exe
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\bin\Debug\net10.0\SumOfTheFirstNthTermOfSeries.deps.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\bin\Debug\net10.0\SumOfTheFirstNthTermOfSeries.runtimeconfig.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\bin\Debug\net10.0\SumOfTheFirstNthTermOfSeries.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\bin\Debug\net10.0\SumOfTheFirstNthTermOfSeries.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\SumOfTheFirstNthTermOfSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\SumOfTheFirstNthTermOfSeries.AssemblyInfoInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\SumOfTheFirstNthTermOfSeries.AssemblyInfo.cs
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\SumOfTheFirstNthTermOfSeries.csproj.CoreCompileInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\SumOfTheFirstNthTermOfSeries.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\refint\SumOfTheFirstNthTermOfSeries.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\SumOfTheFirstNthTermOfSeries.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\SumOfTheFirstNthTermOfSeries.genruntimeconfig.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\SumOfTheFirstNthTermOfSeries\obj\Debug\net10.0\ref\SumOfTheFirstNthTermOfSeries.dll

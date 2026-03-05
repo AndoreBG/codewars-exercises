@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/code-wars/">
+    <Project Path="code-wars/BasicMathematicalOperations/BasicMathematicalOperations.csproj" />
+    <Project Path="code-wars/FindSmallestIntegerInArray/FindSmallestIntegerInArray.csproj" />
+    <Project Path="code-wars/GetAge/GetAge.csproj" />
+    <Project Path="code-wars/OddOrEven/OddOrEven.csproj" />
+    <Project Path="code-wars/SumOfTheFirstNthTermOfSeries/SumOfTheFirstNthTermOfSeries.csproj" />
+    <Project Path="code-wars/TheHighestProfitWins/TheHighestProfitWins.csproj" />
+    <Project Path="code-wars/VolumeOfACuboid/VolumeOfACuboid.csproj" />
+  </Folder>
+</Solution>

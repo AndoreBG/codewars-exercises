@@ -1,0 +1,14 @@
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\bin\Debug\net10.0\FindSmallestIntegerInArray.exe
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\bin\Debug\net10.0\FindSmallestIntegerInArray.deps.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\bin\Debug\net10.0\FindSmallestIntegerInArray.runtimeconfig.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\bin\Debug\net10.0\FindSmallestIntegerInArray.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\bin\Debug\net10.0\FindSmallestIntegerInArray.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\FindSmallestIntegerInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\FindSmallestIntegerInArray.AssemblyInfoInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\FindSmallestIntegerInArray.AssemblyInfo.cs
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\FindSmallestIntegerInArray.csproj.CoreCompileInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\FindSmallestIntegerInArray.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\refint\FindSmallestIntegerInArray.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\FindSmallestIntegerInArray.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\FindSmallestIntegerInArray.genruntimeconfig.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\FindSmallestIntegerInArray\obj\Debug\net10.0\ref\FindSmallestIntegerInArray.dll

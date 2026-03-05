@@ -1,0 +1,14 @@
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\bin\Debug\net10.0\OddOrEven.exe
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\bin\Debug\net10.0\OddOrEven.deps.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\bin\Debug\net10.0\OddOrEven.runtimeconfig.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\bin\Debug\net10.0\OddOrEven.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\bin\Debug\net10.0\OddOrEven.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\OddOrEven.AssemblyInfo.cs
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\OddOrEven.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\refint\OddOrEven.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\OddOrEven.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\OddOrEven.genruntimeconfig.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\OddOrEven\obj\Debug\net10.0\ref\OddOrEven.dll

@@ -1,0 +1,14 @@
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\bin\Debug\net10.0\TheHighestProfitWins.exe
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\bin\Debug\net10.0\TheHighestProfitWins.deps.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\bin\Debug\net10.0\TheHighestProfitWins.runtimeconfig.json
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\bin\Debug\net10.0\TheHighestProfitWins.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\bin\Debug\net10.0\TheHighestProfitWins.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\TheHighestProfitWins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\TheHighestProfitWins.AssemblyInfoInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\TheHighestProfitWins.AssemblyInfo.cs
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\TheHighestProfitWins.csproj.CoreCompileInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\TheHighestProfitWins.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\refint\TheHighestProfitWins.dll
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\TheHighestProfitWins.pdb
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\TheHighestProfitWins.genruntimeconfig.cache
+C:\Users\andgor\Documents\vscode\cscharp\code-wars\TheHighestProfitWins\obj\Debug\net10.0\ref\TheHighestProfitWins.dll
