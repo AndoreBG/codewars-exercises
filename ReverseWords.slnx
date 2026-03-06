@@ -11,5 +11,6 @@
     <Project Path="code-wars/WillThereBeEnoughSpace/WillThereBeEnoughSpace.csproj" />
     <Project Path="code-wars/TheFeastOfManyBeasts/TheFeastOfManyBeasts.csproj" />
     <Project Path="code-wars/SmashWords/SmashWords.csproj" />
+    <Project Path="code-wars/SumArray/SumArray.csproj" />
   </Folder>
 </Solution>
