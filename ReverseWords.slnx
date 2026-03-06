@@ -5,8 +5,10 @@
     <Project Path="code-wars/GetAge/GetAge.csproj" />
     <Project Path="code-wars/OddOrEven/OddOrEven.csproj" />
     <Project Path="code-wars/SumOfTheFirstNthTermOfSeries/SumOfTheFirstNthTermOfSeries.csproj" />
+    <Project Path="code-wars/TheFeastOfManyBeasts/TheFeastOfManyBeasts.csproj" />
     <Project Path="code-wars/TheHighestProfitWins/TheHighestProfitWins.csproj" />
     <Project Path="code-wars/VolumeOfACuboid/VolumeOfACuboid.csproj" />
     <Project Path="code-wars/WillThereBeEnoughSpace/WillThereBeEnoughSpace.csproj" />
+    <Project Path="code-wars/TheFeastOfManyBeasts/TheFeastOfManyBeasts.csproj" />
   </Folder>
 </Solution>
