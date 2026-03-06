@@ -7,5 +7,6 @@
     <Project Path="code-wars/SumOfTheFirstNthTermOfSeries/SumOfTheFirstNthTermOfSeries.csproj" />
     <Project Path="code-wars/TheHighestProfitWins/TheHighestProfitWins.csproj" />
     <Project Path="code-wars/VolumeOfACuboid/VolumeOfACuboid.csproj" />
+    <Project Path="code-wars/WillThereBeEnoughSpace/WillThereBeEnoughSpace.csproj" />
   </Folder>
 </Solution>

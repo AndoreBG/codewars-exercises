@@ -1,0 +1,15 @@
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\bin\Debug\net10.0\WillThereBeEnoughSpace.exe
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\bin\Debug\net10.0\WillThereBeEnoughSpace.deps.json
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\bin\Debug\net10.0\WillThereBeEnoughSpace.runtimeconfig.json
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\bin\Debug\net10.0\WillThereBeEnoughSpace.dll
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\bin\Debug\net10.0\WillThereBeEnoughSpace.pdb
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\WillThereBeEnoughSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\WillThereBeEnoughSpace.AssemblyInfoInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\WillThereBeEnoughSpace.AssemblyInfo.cs
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\WillThereBeEnoughSpace.csproj.CoreCompileInputs.cache
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\WillThereBeEnoughSpace.sourcelink.json
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\WillThereBeEnoughSpace.dll
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\refint\WillThereBeEnoughSpace.dll
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\WillThereBeEnoughSpace.pdb
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\WillThereBeEnoughSpace.genruntimeconfig.cache
+C:\Users\andgor\Documents\vscode\cscharp\codewars-exercises\code-wars\WillThereBeEnoughSpace\obj\Debug\net10.0\ref\WillThereBeEnoughSpace.dll
