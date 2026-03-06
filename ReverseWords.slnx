@@ -10,5 +10,6 @@
     <Project Path="code-wars/VolumeOfACuboid/VolumeOfACuboid.csproj" />
     <Project Path="code-wars/WillThereBeEnoughSpace/WillThereBeEnoughSpace.csproj" />
     <Project Path="code-wars/TheFeastOfManyBeasts/TheFeastOfManyBeasts.csproj" />
+    <Project Path="code-wars/SmashWords/SmashWords.csproj" />
   </Folder>
 </Solution>
