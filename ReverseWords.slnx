@@ -13,5 +13,6 @@
     <Project Path="code-wars/SmashWords/SmashWords.csproj" />
     <Project Path="code-wars/SumArray/SumArray.csproj" />
     <Project Path="code-wars/SetAlarm/SetAlarm.csproj" />
+    <Project Path="code-wars/StringToArray/StringToArray.csproj" />
   </Folder>
 </Solution>
