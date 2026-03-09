@@ -14,5 +14,6 @@
     <Project Path="code-wars/SumArray/SumArray.csproj" />
     <Project Path="code-wars/SetAlarm/SetAlarm.csproj" />
     <Project Path="code-wars/StringToArray/StringToArray.csproj" />
+    <Project Path="code-wars/MultiplesOf3Or5/MultiplesOf3Or5.csproj" />
   </Folder>
 </Solution>
