@@ -16,5 +16,6 @@
     <Project Path="code-wars/StringToArray/StringToArray.csproj" />
     <Project Path="code-wars/MultiplesOf3Or5/MultiplesOf3Or5.csproj" />
     <Project Path="code-wars/ReversedSequence/ReversedSequence.csproj" />
+    <Project Path="code-wars/ArrayDiff/ArrayDiff.csproj" />
   </Folder>
 </Solution>
